@@ -1,0 +1,22 @@
+[submodule "Dorek/vendor/spdlog"]
+	path = Dorek/vendor/spdlog
+	url = ../../gabime/spdlog.git
+	branch = v1.x
+[submodule "Dorek/vendor/GLFW"]
+	path = Dorek/vendor/GLFW
+	url = ../../TheCherno/glfw.git
+	branch = master
+[submodule "Dorek/vendor/imgui"]
+	path = Dorek/vendor/imgui
+	url = ../../TheCherno/imgui.git
+	branch = docking
+[submodule "Dorek/vendor/glm"]
+	path = Dorek/vendor/glm
+	url = ../../g-truc/glm.git
+	branch = master
+[submodule "Dorek/vendor/yaml-cpp"]
+	path = Dorek/vendor/yaml-cpp
+	url = https://github.com/thecherno/yaml-cpp
+[submodule "Dorek/vendor/ImGuizmo"]
+	path = Dorek/vendor/ImGuizmo
+	url = https://github.com/thecherno/imguizmo

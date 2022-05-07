@@ -1,0 +1,19 @@
+# Binaries
+**/bin/
+bin-int/
+
+# Dorek files
+*.log
+
+# Visual Studio files and folder
+.vs/
+.git/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+# Directories
+Dorek/vendor/VulkanSDK
+DorekEngine/assets/cache
+scripts/__pycache__
